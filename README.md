@@ -1,2 +1,2 @@
 # hacknight
-I'm going to try something new
+Going to try to work with notion this time
